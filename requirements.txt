@@ -3,3 +3,4 @@ joblib
 spacy
 schedule
 sklearn
+streamlit 
